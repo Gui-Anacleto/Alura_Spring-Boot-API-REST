@@ -5,7 +5,7 @@ Classe MAIN roda o projeto.
 
 @Controller - Serve para o spring encontrar e determinar.
 
-@RequestMapping("URL") -  vai sobre o metodo.
+@RequestMapping("URL") -  Vai sobre o metodo, para determinar a URL.
 
-@ResponseBody - ele vai devolver a informação do metodo no corpo do navegador.
+@ResponseBody - Usado para devolver a informação do método no corpo do navegador.
 
